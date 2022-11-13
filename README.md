@@ -1,1 +1,1 @@
-# Frontend-Proyecto_Hoteles
+# Frontend-Proyecto_buscador_Hoteles
